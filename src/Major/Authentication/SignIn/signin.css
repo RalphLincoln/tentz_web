@@ -1,0 +1,24 @@
+.logoss {
+    width: 10% !important;
+}
+.custom_form_control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    height: 58px;
+    color: #fff;
+    background-color: #1C1D21;
+    background-clip: padding-box;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 35px;
+    font-weight: bold;
+    box-shadow: none !important;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.custom_form_control:focus {
+    outline: none;
+}
